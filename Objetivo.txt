@@ -1,0 +1,11 @@
+Desenvolver aplicação que atenda aos requisitos iniciais abaixo:
+
+1.	Objetivo 
+
+Uma empresa especializada em pesquisas de opinião foi contratada para a realização de uma pesquisa de intenção de votos em um município especifico. Após a realização desta pesquisa, a empresa deve enviar a contratante os resultados, em arquivos separados no formato texto seguindo os seguintes critérios:
+I.	Um arquivo contendo a relação de todos entrevistados, que sejam maiores de 30 anos. Este arquivo deve estar ordenado por ordem alfabética do nome do entrevistado.
+II.	Um arquivo contendo a relação de todos entrevistados, indiferente da idade, que tenham renda superior a 30.000,00.
+III.	Um arquivo contendo a relação de todos entrevistados com idade entre 50 e 65 anos que residam na região oeste do município.
+Para realizar esta operação, foi disponibilizado um arquivo no formato *.csv.
+
+
